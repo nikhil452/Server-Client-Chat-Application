@@ -1,8 +1,4 @@
- /*
-  *   *       Please Visit us at www.codemiles.com     *
-  *  This Program was Developed by www.codemiles.com forums Team
-  *  *           Please Don't Remove This Comment       *
-  */
+
 package serverchat;
 
 import java.awt.Container;
@@ -286,8 +282,3 @@ public class myFrame extends JFrame{
     }
     
 }
- /*
-  *   *       Please Visit us at www.codemiles.com     *
-  *  This Program was Developed by www.codemiles.com forums Team
-  *  *           Please Don't Remove This Comment       *
-  */
