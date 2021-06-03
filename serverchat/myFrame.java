@@ -27,10 +27,6 @@ import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author Muhamed
- */
 public class myFrame extends JFrame{
     
     /** Creates a new instance of myFrame */
